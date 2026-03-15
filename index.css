@@ -1,0 +1,229 @@
+h1{
+    text-align: center
+}
+
+*{ 
+    box-sizing: border-box;
+    margin: 0;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+    table-layout: fixed;
+}
+
+td{ 
+    padding: 20px;
+    border-radius: 10px;
+    width: 5%;
+    height: 8vh;
+}
+
+.border{
+    border:2px solid black;
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.NM{
+    border:2px solid black;
+    background-color:  rgb(115, 196, 94);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.GN{
+    border:2px solid black;
+    background-color:  rgb(53, 124, 231);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.MA{
+    border:2px solid black;
+    background-color:  rgb(240, 196, 75);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.MAT{
+    border:2px solid black;
+    background-color:  rgb(240, 241, 126);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.S{
+    border:2px solid black;
+    background-color:  rgb(64, 184, 144);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.NMP{
+    border:2px solid black;
+    background-color:  rgb(142, 235, 129);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.NMD{
+    border:2px solid black;
+    background-color:  rgb(128, 228, 214);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.MPT{
+    border:2px solid black;
+    background-color:  rgb(169, 238, 255);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.MDT{
+    border:2px solid black;
+    background-color:  rgb(226, 133, 133);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.L{
+    border:2px solid black;
+    background-color:  rgb(162, 228, 240);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.A{
+    border:2px solid black;
+    background-color:  rgb(228, 139, 198);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.PQD{
+    border:2px solid black;
+    background-color:  rgb(52, 49, 243);
+    width: 5%;
+    padding: 10px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.Nm{
+    border:2px solid black;
+    background-color:  rgb(115, 196, 94);
+    width: 50px;
+    height: 50px;   
+}
+.a{
+    border:2px solid black;
+    background-color:  rgb(228, 139, 198);
+}
+.Gn{
+    border:2px solid black;
+    background-color: rgb(53, 124, 231);
+    width: 50px;
+    height: 50px;
+}
+.Mdt{
+    border:2px solid black;
+    background-color:  rgb(226, 133, 133);
+    width: 50px;
+    height: 50px;
+}
+.Mat{
+    border:2px solid black;
+    background-color:  rgb(240, 241, 126);
+    width: 50px;
+    height: 50px;
+}
+.Mal{
+    border:2px solid black;
+    background-color:  rgb(240, 196, 75);
+    width: 50px;
+    height: 50px;
+}
+.H{
+    border:2px solid black;
+    background-color: rgb(128, 228, 214);
+    width: 50px;
+    height: 50px;
+}
+.s{
+    border:2px solid black;
+    background-color:  rgb(64, 184, 144);
+    width: 50px;
+    height: 50px;  
+}
+.Mpt{
+    border:2px solid black;
+    background-color: rgb(169, 238, 255);
+    width: 50px;
+    height: 50px;    
+}
+.l{
+    border:2px solid black;
+    background-color: rgb(162, 228, 240);
+    width: 50px;
+    height: 50px;     
+}
+#espaco
+{
+    height: 50%;
+}
